@@ -61,6 +61,6 @@ Here are some basic things to know about KINGPIN 👑📍;
 #### Lifestyle
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=KingPinGi&show_icons=true&include_all_commits=true&hide_border=true" alt="Tobi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingPinGilangs_count=8&layout=compact&hide_border=true" alt="Tobi's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=KingPinGi&show_icons=true&include_all_commits=true&hide_border=true" alt="Tobi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingPinGi&langs_count=8&layout=compact&hide_border=true" alt="Tobi's GitHub stats" /> |
 | ------------- | ------------- |
 
