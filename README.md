@@ -23,7 +23,7 @@
 Here are some basic things to know about KINGPIN 👑📍;
 
 - 🔭 I’m currently working on acquiring new skills,
-- 🌱 I’m currently learning Fullstack Web Development,
+- 🌱 I’m currently venturing into Fullstack Web3 Development,
 - 👯 I’m looking to collaborate on projects,
 - 💬 Ask me about anything🌚,
 - 📫 How to reach me: Email: ainatobi83@gmail.com, Phone: +2348080120121,
