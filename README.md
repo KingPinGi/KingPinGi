@@ -5,7 +5,7 @@
 
 ### **What's my current role in tech?** </h2>
 
-       { Front End Developer }
+       { Developer }
 
 <a href="https://github.com/KingPinGi"><img src="images/github.png" width="60" /></a>
 <a href="https://www.linkedin.com/in/tobiloba-aina-78483822b/"><img src="images/linkedin.png" width="60" /></a>
