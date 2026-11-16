@@ -1,6 +1,6 @@
-# Hi, I'm Tobiloba Aina (KingPinGi) 👑
+# Hi, I'm Oluwatobiloba Aina (KingBash) 
 
-**Aspiring SOC Analyst | Security+ (SY0-701) in progress | NetworkWalks B084**
+**Aspiring SOC Analyst | Security+ (SY0-701) in progress | **
 
 I am building a career in cybersecurity with a focus on security operations: blue-team fundamentals, log analysis, threat hunting, and hands-on labs. Currently studying for CompTIA Security+, with BTL1 and Splunk Core next on the roadmap.
 
