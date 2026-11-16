@@ -1,1 +1,38 @@
-IyBIaSwgSSdtIFRvYmlsb2JhIEFpbmEgKEtpbmdQaW5HaSkg8J+RkQoKKipBc3BpcmluZyBTT0MgQW5hbHlzdCB8IFNlY3VyaXR5KyAoU1kwLTcwMSkgaW4gcHJvZ3Jlc3MgfCBOZXR3b3JrV2Fsa3MgQjA4NCoqCgpJIGFtIGJ1aWxkaW5nIGEgY2FyZWVyIGluIGN5YmVyc2VjdXJpdHkgd2l0aCBhIGZvY3VzIG9uIHNlY3VyaXR5IG9wZXJhdGlvbnM6IGJsdWUtdGVhbSBmdW5kYW1lbnRhbHMsIGxvZyBhbmFseXNpcywgdGhyZWF0IGh1bnRpbmcsIGFuZCBoYW5kcy1vbiBsYWJzLiBDdXJyZW50bHkgc3R1ZHlpbmcgZm9yIENvbXBUSUEgU2VjdXJpdHkrLCB3aXRoIEJUTDEgYW5kIFNwbHVuayBDb3JlIG5leHQgb24gdGhlIHJvYWRtYXAuCgotIPCflK0gQ3VycmVudGx5IGJ1aWxkaW5nOiBhIGhvbWUgU09DIGxhYiAoU3BsdW5rL1dhenVoICsgU3lzbW9uICsgQXRvbWljIFJlZCBUZWFtKSwgU2lnbWEgcnVsZXMsIGFuZCBDeWJlckRlZmVuZGVycyBpbnZlc3RpZ2F0aW9uIHdyaXRlLXVwcwotIPCfjLEgQ3VycmVudGx5IHN0dWR5aW5nOiBTZWN1cml0eSsgU1kwLTcwMSwgU3BsdW5rLCBXaXJlc2hhcmssIGFuZCBOZXR3b3JrV2Fsa3MgcGVudGVzdGluZyBtb2R1bGVzCi0g8J+OkyBDb21wbGV0ZWQ6IEdvb2dsZSBDeWJlcnNlY3VyaXR5IENlcnRpZmljYXRlIChDb3Vyc2VyYSkKLSDwn6eqIEhhbmRzLW9uOiBLYWxpIExpbnV4LCBWaXJ0dWFsQm94L1VUTSwgTm1hcC9aZW5tYXAsIFdpcmVzaGFyaywgV0hPSVMvZG5zcmVjb24sIHRoZUhhcnZlc3RlciwgR0hEQgotIPCfk6sgUmVhY2ggbWU6IGFpbmF0b2JpODNAZ21haWwuY29tCi0g8J+SvCBMaW5rZWRJbjogW1RvYmlsb2JhIEFpbmFdKGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi90b2JpbG9iYS1haW5hLTc4NDgzODIyYi8pCi0g8J+YhCBQcm9ub3VuczogSGUvSGltIHwg4pqhIEZ1biBmYWN0OiBJIGxvdmUgZ2FtaW5nCgojIyDwn5uh77iPIFNlY3VyaXR5IFBvcnRmb2xpbwoKfCBQcm9qZWN0IHwgV2hhdCBpdCBjb3ZlcnMgfAp8IC0tLS0tLS0gfCAtLS0tLS0tLS0tLS0tLSB8CnwgW1dLMTogQ3liZXJzZWN1cml0eSBMYWIgU2V0dXBdKGh0dHBzOi8vZ2l0aHViLmNvbS9LaW5nUGluR2kvTkVUV09SS1dBTEtTLUIwODQtV0sxLVBNMS1DWUJFUlNFQ1VSSVRZLUxBQi1TRVRVUCkgfCBJc29sYXRlZCBWaXJ0dWFsQm94ICsgS2FsaSBMaW51eCBsYWIgZm9yIHBlbnRlc3RpbmcgcHJhY3RpY2UgfAp8IFtXSzI6IEZvb3RwcmludGluZyBhbmQgTmV0d29yayBTY2FubmluZ10oaHR0cHM6Ly9naXRodWIuY29tL0tpbmdQaW5HaS9ORVRXT1JLV0FMS1MtQjA4NC1XSzItUE0tRklOQUwtRk9PVFBSSU5USU5HLU5FVFdPUkstU0NBTk5JTkcpIHwgV0hPSVMsIFdoYXRXZWIsIEdIREIgZG9ya3MsIHRoZUhhcnZlc3RlciwgWmVubWFwIHJlY29uIHJlcG9ydCB8CgpNb3JlIE5ldHdvcmtXYWxrcyBsYWIgcmVwb3MgYW5kIGJsdWUtdGVhbSB3cml0ZS11cHMgYXJlIG9uIHRoZSB3YXkuCgojIyDwn6ewIFRvb2xzIGFuZCBUZWNoCgohW0thbGldKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvS2FsaV9MaW51eC01NTdDOTQ/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWthbGktbGludXgmbG9nb0NvbG9yPXdoaXRlKQohW1dpcmVzaGFya10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9XaXJlc2hhcmstMTY3OUE3P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz13aXJlc2hhcmsmbG9nb0NvbG9yPXdoaXRlKQohW1NwbHVua10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9TcGx1bmstMDAwMDAwP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1zcGx1bmsmbG9nb0NvbG9yPXdoaXRlKQohW05tYXBdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTm1hcC00NjQ2NDY/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPW5tYXAmbG9nb0NvbG9yPXdoaXRlKQohW0xpbnV4XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xpbnV4LUZDQzYyND9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bGludXgmbG9nb0NvbG9yPWJsYWNrKQohW1B5dGhvbl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QeXRob24tMzc3NkFCP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1weXRob24mbG9nb0NvbG9yPXdoaXRlKQohW0dpdF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9HaXQtRjA1MDMyP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1naXQmbG9nb0NvbG9yPXdoaXRlKQohW1ZpcnR1YWxCb3hdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVmlydHVhbEJveC0xODNBNjE/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXZpcnR1YWxib3gmbG9nb0NvbG9yPXdoaXRlKQoKIyMg8J+TiiBHaXRIdWIgU3RhdHMKCjxpbWcgYWxpZ249ImxlZnQiIGFsdD0iVG9iaSdzIEdpdEh1YiBzdGF0cyIgd2lkdGg9IjQ4JSIgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9S2luZ1BpbkdpJnNob3dfaWNvbnM9dHJ1ZSZpbmNsdWRlX2FsbF9jb21taXRzPXRydWUmaGlkZV9ib3JkZXI9dHJ1ZSIgLz4KPGltZyBhbHQ9IlRvcCBsYW5ndWFnZXMiIHdpZHRoPSI0OCUiIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpL3RvcC1sYW5ncy8/dXNlcm5hbWU9S2luZ1BpbkdpJmxhbmdzX2NvdW50PTgmbGF5b3V0PWNvbXBhY3QmaGlkZV9ib3JkZXI9dHJ1ZSIgLz4K
+# Hi, I'm Tobiloba Aina (KingPinGi) 👑
+
+**Aspiring SOC Analyst | Security+ (SY0-701) in progress | NetworkWalks B084**
+
+I am building a career in cybersecurity with a focus on security operations: blue-team fundamentals, log analysis, threat hunting, and hands-on labs. Currently studying for CompTIA Security+, with BTL1 and Splunk Core next on the roadmap.
+
+- 🔭 Currently building: a home SOC lab (Splunk/Wazuh + Sysmon + Atomic Red Team), Sigma rules, and CyberDefenders investigation write-ups
+- 🌱 Currently studying: Security+ SY0-701, Splunk, Wireshark, and NetworkWalks pentesting modules
+- 🎓 Completed: Google Cybersecurity Certificate (Coursera)
+- 🧪 Hands-on: Kali Linux, VirtualBox/UTM, Nmap/Zenmap, Wireshark, WHOIS/dnsrecon, theHarvester, GHDB
+- 📫 Reach me: ainatobi83@gmail.com
+- 💼 LinkedIn: [Tobiloba Aina](https://www.linkedin.com/in/tobiloba-aina-78483822b/)
+- 😄 Pronouns: He/Him | ⚡ Fun fact: I love gaming
+
+## 🛡️ Security Portfolio
+
+| Project | What it covers |
+| ------- | -------------- |
+| [WK1: Cybersecurity Lab Setup](https://github.com/KingPinGi/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP) | Isolated VirtualBox + Kali Linux lab for pentesting practice |
+| [WK2: Footprinting and Network Scanning](https://github.com/KingPinGi/NETWORKWALKS-B084-WK2-PM-FINAL-FOOTPRINTING-NETWORK-SCANNING) | WHOIS, WhatWeb, GHDB dorks, theHarvester, Zenmap recon report |
+
+More NetworkWalks lab repos and blue-team write-ups are on the way.
+
+## 🧰 Tools and Tech
+
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-464646?style=for-the-badge&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+## 📊 GitHub Stats
+
+<img align="left" alt="Tobi's GitHub stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=KingPinGi&show_icons=true&include_all_commits=true&hide_border=true" />
+<img alt="Top languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingPinGi&langs_count=8&layout=compact&hide_border=true" />
